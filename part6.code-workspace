@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "redux-anecdotes"
+	},
+	{
+		"path": "unicafe-redux"
+	}
+],
+  "settings": {}
+}
